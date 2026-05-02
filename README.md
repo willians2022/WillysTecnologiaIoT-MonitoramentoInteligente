@@ -45,6 +45,8 @@ O sistema realiza a leitura de dados ambientais através de um sensor DHT11, exi
 | OLED SCL  | D5 (GPIO14) |
 
 ---
+<img width="1600" height="900" alt="WhatsApp Image 2026-05-01 at 20 59 35" src="https://github.com/user-attachments/assets/054b80a6-dcc1-4e59-9c50-07874a65eecf" />
+
 
 
 
