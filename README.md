@@ -1,5 +1,4 @@
-# telemetricaesp8266
-Este projeto foi desenvolvido durante o curso de **Microeletrônica**, com foco em aplicações reais de sistemas embarcados e Internet das Coisas (IoT).  O sistema realiza a leitura de dados ambientais através de um sensor DHT11, exibe as informações em um display OLED e envia os dados para a nuvem utilizando o protocolo MQTT.
+
 # 🚀 Willys Tecnologia IoT - Monitoramento com ESP8266
 
 Projeto de IoT utilizando ESP8266 (NodeMCU) para monitoramento de temperatura e umidade em tempo real, com envio de dados para a nuvem via MQTT (ThingsBoard) e exibição local em display OLED.
@@ -47,4 +46,5 @@ O sistema realiza a leitura de dados ambientais através de um sensor DHT11, exi
 
 ---
 
-## 📦 Estrutura do Projeto
+
+
